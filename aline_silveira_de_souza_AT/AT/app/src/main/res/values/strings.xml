@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Carrinho</string>
+    <string name="entrar">Entrar</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="exemploEmail">maria@meucarrinho.com</string>
+    <string name="exemploSenha">123456</string>
+    <string name="instrucao">Para começar, faça login:</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="lista">Lista de Produtos</string>
+    <string name="home">Home</string>
+    <string name="bemvindo">Seja bem-vindo!</string>
+    <string name="comecar">Clique no botão abaixo para ver os itens adicionados:</string>
+    <string name="info">Estes são os itens do carrinho</string>
+    <string name="nav">Sair</string>
+    <string name="inicial">Voltar ao início</string>
+    <string name="comprar">Comprar</string>
+    <string name="voltar">Voltar</string>
+    <string name="faq">F.A.Q</string>
+    <string name="pe1">1. Como funciona o Meu Carrinho?</string>
+    <string name="pe2">2. Consigo comprar diretamente pelo app?</string>
+    <string name="re1">O Meu Carrinho é um aplicativo que funciona como uma espécie de lista de compras, contendo os itens que foram adicionados pelo utilizador para serem futuramente comprados.</string>
+    <string name="re2">Não, mas é possível ser redirecionado diretamente para o website do supermercado através do botão COMPRAR na lista de produtos.</string>
+    <string name="verCarrinho">Ver carrinho</string>
+
+</resources>
